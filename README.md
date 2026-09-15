@@ -5,7 +5,7 @@ Practical projects applying operating systems concepts: memory management, proce
 ## Roadmap
 
 - [x] RAM Simulator (First-Fit allocation) — C++
-- [ ] LRU Cache
+- [x] LRU Cache
 - [ ] Mini-shell
 - [ ] Custom malloc implementation — C
 - [ ] RAM Simulator rewrite — Rust
